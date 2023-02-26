@@ -1,2 +1,6 @@
 sweep*/
 ./*.mp4
+.DS_Store
+.vscode
+# ignore pycache
+__pycache__
